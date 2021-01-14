@@ -1,0 +1,14 @@
+div#sub_login{
+    width:350px;
+    height:50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 10px;
+}
+a.last{
+    font-family: arial;
+    font-style: none;
+    text-decoration:none;
+    margin-left: 10%;
+}
